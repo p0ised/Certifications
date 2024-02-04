@@ -7,10 +7,15 @@ This repository showcases my collection of earned certifications in various fiel
 What you'll find here:
 
 Certification Name: Name of the certification achieved.
+
 Issuing Organization: The organization that issued the certification.
+
 Date Earned: The date the certification was obtained.
+
 Credential Link: Optional link to the official certification verification page or badge.
+
 Description (Optional): Briefly describe the scope of the certification and any key skills or knowledge it covers.
+
 Why should you explore this repository?
 
 Gain insights into my skills and expertise: Understand the areas where I have focused my learning and development.
