@@ -21,6 +21,7 @@ Feel free to:
 
 Leave a comment: Share your thoughts on my certifications or ask any questions you may have.
 
-Connect with me: Let's network and discuss potential collaborations or opportunities.
+Connect with me: Let's network and discuss potential collaborations or opportunities. antram3223@gmail.com
+
 I'm always looking to expand my knowledge and skillset. If you have any recommendations for relevant certifications, don't hesitate to share them!
 
