@@ -4,6 +4,9 @@
 
 This repository showcases my collection of earned certifications in various fields related to technology, business, and professional development. I'm passionate about continuous learning and skill development, and these certifications document my journey in acquiring valuable knowledge and expertise.
 
+Additionaly here is my Credly Profile as well. 
+https://www.credly.com/users/anthony-ramirez.eb4eddd4/badges#
+
 What you'll find here:
 
 Certification Name: Name of the certification achieved.
@@ -19,7 +22,7 @@ Get inspired by my learning journey: Discover the diverse certifications I've pu
 
 Feel free to:
 
-Leave a comment: Share your thoughts on my certifications or ask any questions you may have.
+
 
 Connect with me: Let's network and discuss potential collaborations or opportunities. antram3223@gmail.com
 
